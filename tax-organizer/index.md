@@ -2,6 +2,7 @@
 layout: default
 title: "GavinTalksTaxes Tax Organizer"
 permalink: /tax-organizer/
+search_console: true
 ---
 
 # GavinTalksTaxes Tax Organizer
